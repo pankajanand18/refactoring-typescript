@@ -1,0 +1,13 @@
+{
+  "name": "refactoring-typescript",
+  "version": "1.0.0",
+  "description": "a project to demonstrate refactoring for typescript ",
+  "main": "index.js",
+  "repository": "git@github.com:pankajanand18/refactoring-typescript.git",
+  "author": "Pankaj Anand <pankajanand18@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc": "^2.0.3",
+    "typescript": "^4.4.4"
+  }
+}
