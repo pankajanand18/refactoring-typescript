@@ -1,5 +1,5 @@
 /**
- * @description Reverse an input array in place
+ * @description Reverse a given array in place
  * @param nums
  */
 function reverseArray(nums: number[]) {
