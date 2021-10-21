@@ -8,5 +8,5 @@ export function printCurrentDate() {
 
 export function printDate(date?: Date) {
     const temp = date ?? new Date()
-    console.log(new Date())
+    console.log(temp)
 }
